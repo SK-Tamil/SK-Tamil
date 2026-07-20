@@ -17,7 +17,7 @@ Building Scalable • Secure • Highly Available • Automated Cloud Infrastruc
 </p>
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AWS+DevOps+Engineer;Cloud+Infrastructure+Expert;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation;Linux+Administrator;Always+Learning+New+Technologies"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Tamilselvan%20S&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AWS%20DevOps%20Engineer&descAlignY=60"/>
 
 </p>
 <p align="center">
