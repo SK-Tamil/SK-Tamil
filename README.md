@@ -52,11 +52,20 @@
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
 
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2d06e54b-b67a-4d89-b6c8-2aa4c8e0f6b2.gif">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SK-Tamil&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+<p align="center">
 
+🚀 Passionate about designing secure, scalable, and highly available cloud infrastructure using AWS and modern DevOps practices.
 
+</p>
 # 🚀 About Me
 
 ☁️ Passionate **AWS DevOps Engineer** focused on building secure, scalable, and highly available cloud infrastructure.
