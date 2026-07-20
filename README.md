@@ -458,7 +458,7 @@ Linux server configuration and application deployment automation.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SK-Tamil&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SK-Tamil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
 
@@ -474,7 +474,7 @@ Linux server configuration and application deployment automation.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/SK-Tamil/SK-Tamil/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/SK-Tamil/SK-Tamil/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
