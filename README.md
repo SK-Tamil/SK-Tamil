@@ -1,18 +1,23 @@
 
-<h3 align="center">
-
-☁️ AWS DevOps Engineer • 🚀 Cloud Infrastructure • ☸ Kubernetes • 🏗 Terraform
-
-</h3>
-
-<p align="center">
-
-🚀 Building Scalable • Secure • Highly Available • Automated Cloud Infrastructure
-
-</p>
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,25:1F6FEB,50:7B61FF,75:00E5FF,100:00C853&text=Tamilselvan%20S&fontColor=FFFFFF&fontSize=60&fontAlignY=38&animation=twinkling&desc=AWS%20DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20Engineer&descAlignY=60&descSize=22"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 
 </p>
 <p align="center">
