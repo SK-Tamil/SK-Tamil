@@ -456,9 +456,19 @@ Linux server configuration and application deployment automation.
 
 # 🏆 GitHub Trophies
 
+# 🏅 Professional Expertise
+
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SK-Tamil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+☁️ AWS &nbsp;&nbsp;|&nbsp;&nbsp;
+🐳 Docker &nbsp;&nbsp;|&nbsp;&nbsp;
+☸ Kubernetes &nbsp;&nbsp;|&nbsp;&nbsp;
+🏗 Terraform &nbsp;&nbsp;|&nbsp;&nbsp;
+⚙️ Jenkins &nbsp;&nbsp;|&nbsp;&nbsp;
+📦 ArgoCD &nbsp;&nbsp;|&nbsp;&nbsp;
+📊 Prometheus &nbsp;&nbsp;|&nbsp;&nbsp;
+📈 Grafana &nbsp;&nbsp;|&nbsp;&nbsp;
+🐧 Linux
 
 </p>
 
