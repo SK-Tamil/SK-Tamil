@@ -1,9 +1,13 @@
 <h1 align="center">
-Hi 👋 I'm Tamilselvan S
+
+Hi 👋 I'm <span style="color:#00F7FF;">Tamilselvan S</span>
+
 </h1>
 
 <h3 align="center">
-☁️ AWS DevOps Engineer | Cloud Infrastructure | Kubernetes | CI/CD | Infrastructure as Code
+
+☁️ AWS DevOps Engineer • 🚀 Cloud Infrastructure • ☸ Kubernetes • 🏗 Terraform
+
 </h3>
 
 <p align="center">
@@ -11,7 +15,6 @@ Hi 👋 I'm Tamilselvan S
 Building Scalable • Secure • Highly Available • Automated Cloud Infrastructure
 
 </p>
-
 <p align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AWS+DevOps+Engineer;Cloud+Infrastructure+Expert;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation;Linux+Administrator;Always+Learning+New+Technologies"/>
