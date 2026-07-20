@@ -17,17 +17,17 @@ Building Scalable • Secure • Highly Available • Automated Cloud Infrastruc
 </p>
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Tamilselvan%20S&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AWS%20DevOps%20Engineer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,25:1F6FEB,50:7B61FF,75:00E5FF,100:00C853&text=Tamilselvan%20S&fontColor=FFFFFF&fontSize=60&fontAlignY=38&animation=twinkling&desc=AWS%20DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20Engineer&descAlignY=60&descSize=22"/>
 
 </p>
 <p align="center">
 
 <a href="https://github.com/SK-Tamil">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tamilselvan-s336">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:selven259@gmail.com">
@@ -35,6 +35,25 @@ Building Scalable • Secure • Highly Available • Automated Cloud Infrastruc
 </a>
 
 </p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d06e54b-b67a-4d89-b6c8-2aa4c8e0f6b2.gif">
 
 
 # 🚀 About Me
