@@ -40,12 +40,6 @@
 
 
 
-
-<p align="center">
-
-🚀 Passionate about designing secure, scalable, and highly available cloud infrastructure using AWS and modern DevOps practices.
-
-</p>
 🚀 About Me
 
 ☁️ Passionate **AWS DevOps Engineer** focused on building secure, scalable, and highly available cloud infrastructure.
