@@ -14,7 +14,7 @@ Building Scalable • Secure • Highly Available • Automated Cloud Infrastruc
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D8FF&center=true&vCenter=true&width=1000&lines=AWS+DevOps+Engineer;Cloud+Infrastructure+Automation;Linux+Administrator;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Pipeline+Engineer;Infrastructure+as+Code;Monitoring+%7C+GitOps;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AWS+DevOps+Engineer;Cloud+Infrastructure+Expert;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation;Linux+Administrator;Always+Learning+New+Technologies"/>
 
 </p>
 <p align="center">
