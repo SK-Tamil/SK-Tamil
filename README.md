@@ -72,7 +72,7 @@
 🚀 Passionate about designing secure, scalable, and highly available cloud infrastructure using AWS and modern DevOps practices.
 
 </p>
-# 🚀 About Me
+🚀 About Me
 
 ☁️ Passionate **AWS DevOps Engineer** focused on building secure, scalable, and highly available cloud infrastructure.
 
@@ -80,9 +80,9 @@
 
 ⚙️ I enjoy automating deployments, improving system reliability, and implementing DevOps best practices for cloud-native environments.
 
-🌱 Currently expanding my expertise in **Kubernetes, GitOps, Cloud Security, Platform Engineering, and Site Reliability Engineering (SRE).**
+🌱 Currently expanding my expertise in **Kubernetes, GitOps, Cloud Security, Platform Engineering, and Site Reliability Engineering (SRE).
 
-🎯 **Career Goal**
+🎯 Career Goal
 
 To become a Senior AWS DevOps Engineer specializing in cloud-native technologies, Kubernetes, Infrastructure Automation, and Platform Engineering.
 # 🚀 DevOps Philosophy
