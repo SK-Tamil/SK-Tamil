@@ -1,8 +1,3 @@
-<h1 align="center">
-
-Hi 👋 I'm <span style="color:#00F7FF;">Tamilselvan S</span>
-
-</h1>
 
 <h3 align="center">
 
@@ -12,7 +7,7 @@ Hi 👋 I'm <span style="color:#00F7FF;">Tamilselvan S</span>
 
 <p align="center">
 
-Building Scalable • Secure • Highly Available • Automated Cloud Infrastructure
+🚀 Building Scalable • Secure • Highly Available • Automated Cloud Infrastructure
 
 </p>
 <p align="center">
